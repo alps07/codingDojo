@@ -1,0 +1,27 @@
+***Quick intro, name, where you’re from, background, interests
+
+Hi, I am Alpana Kumari.
+I am from campbell, ca.
+I am front-end java UI developer.
+My interset is in Web UI.
+
+
+***Why do you want to learn to code,
+ and why did you decide to join the bootcamp?
+
+I want to learn to do build an appplication from scratch.
+I know basics of html, css, javascript. I am at beginner stage. 
+I decided to join bootcamp to accelerate my learning process, to get knowlegde of differnet technologies and 
+have hands-on expreinece.
+
+*** What have you tried before to learn to code? 
+   How did that work for you?
+
+I have tried to learn html,css, javascript from w3cschool.com.
+I was able to create simple static web page using html and css.
+
+*** What are you most excited to learn in the bootcamp?
+ Any project ideas you have?
+I am excited to learn everything, specially building applications from scratch.
+The exposure I will get from the bootcamp will help me a great deal in my careerr
+goal to  becoming a full stack developer.

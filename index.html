@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>My Webpage!</title>
+		<meta name="description" content="this is example of Html tags" >
+	</head>
+	<body>
+		<div id="nav"> 
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+		<img src="http://lorempixel.com/100/100" alt="an image" height=100 width=100>
+		<div id="main_section">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.<span id="important">Praesent libero</span>. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+			</p>
+			<table>
+				<thead>
+					<tr>
+						<th>First Name</th>
+						<th>Last Name</th>
+						<th>Gender</th>
+						<th>Email</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Alice</td>
+						<td>kal</td>
+						<td>Female</td>
+						<td>alice@email.com</td>
+					</tr>
+					<tr><td>John</td>
+						<td>Cruz</td>
+						<td>Male</td>
+						<td>johnc@email.com</td>
+					</tr>
+					<tr>
+						<td>Tom</td>
+						<td>Hanks</td>
+						<td>Male</td>
+						<td>tom@email.com</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div id="form" >
+			<form action="process.php" method="post">
+				<p>Please Register</p>
+				<label>
+					First Name:<input type="text" name="first_name">
+				</label>
+				<label>
+					Last Name:<input type="text" name="last_name">
+				</label>
+				<label>
+					Email:<input type="text" name="email">
+				</label>
+				<p>Select gender:</p>
+				<label>
+					<input type="radio" name="gender" value="Male">Male
+				</label>
+				<label>
+					<input type="radio" name="gender" value="Female">Female
+				</label>
+				<p>Select 3 of your favorite colors:</p>
+				<label>
+					<input type="checkbox" name="color" value="blue">Blue
+				</label>
+				<label>
+					<input type="checkbox" name="color" value="red">Red
+				</label>
+				<label>
+					<input type="checkbox" name="color" value="green">Green
+				</label>
+				<label>
+					<input type="checkbox" name="color" value="purple">Purple
+				</label>
+				<label>
+					<input type="checkbox" name="color" value="black">Black
+				</label>
+
+				<p>Say a few words about yourself:</p>
+				<textarea name="description"></textarea>
+
+				<label>
+					Password:<input type="password" name="password">
+				</label>
+
+				<label>
+					Password Confirm:<input type="password" name="password_confirmation">
+				</label>
+				<input type="submit" value="Click here to register">
+			</form>
+
+		</div>
+
+
+
+		
+	</body>
+</html>
